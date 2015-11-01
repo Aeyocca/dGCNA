@@ -24,11 +24,9 @@ class Cluster {
          Published here:
          http://www.jstatsoft.org/v46/i11/paper
 
-         No changes, just a java implementation with perhaps some multithreading support ... we'll see.
+         No major changes, just a java implementation with perhaps some multithreading support ... we'll see.
          */
-        /*
-         Init variables, get Distances, etc...
-         */
+
 
         int N = Similarities.getNumRows();
         Criteria = Crit;
